@@ -1,0 +1,23 @@
+.center_box_register{
+    left: 35%;
+    top:20%;
+    position: absolute;
+    height: 550px;
+    width: 500px;
+    border: 1px solid black;
+    box-shadow: 0px 1px 1px 2px black;
+    border-radius: 15px;
+}
+
+.loading_spinner {
+    height: 30px;
+    position: absolute;
+    top: 57%;
+    left: 52%
+}
+.terms_conditions{
+    max-width: 100%;
+    overflow-y: auto;
+    height: 23px;
+    padding-left: 19%;
+}

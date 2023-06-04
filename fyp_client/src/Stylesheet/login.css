@@ -1,0 +1,19 @@
+.center_box{
+        left: 35%;
+        top: 30%;
+        position: absolute;
+        height: 430px;
+        width: 500px;
+        border: 1px solid black;
+        box-shadow: 0px 1px 1px 2px black;
+        
+        border-radius: 15px;
+}
+
+.loading_spinner{
+    height: 30px;
+    position: absolute;
+    top: 57%;
+    left: 52%
+}
+
